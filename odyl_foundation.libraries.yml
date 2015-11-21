@@ -1,0 +1,11 @@
+global:
+  version: VERSION
+  css:
+    base:
+      css/odyl_foundation.css: {}
+      css/font-awesome.min.css: {}
+  js:
+    js/odyl_foundation.js: {}
+  dependencies:
+    - core/drupal
+    - core/jquery
